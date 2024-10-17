@@ -1,4 +1,3 @@
-﻿﻿
 # 𝐇𝐢, 𝐦𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐄𝐧𝐯𝐞𝐫<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center"/>
      <img src="https://i.gifer.com/Txi0.gif" width="700" height="400"  />
