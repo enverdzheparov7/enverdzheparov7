@@ -3,11 +3,7 @@
 <div align="center">
   <img src="https://i.gifer.com/Txi0.gif" width="700" height="400"/>
 </div>
-## About me:
-<div>
-    <p><strong>I am a beginner programmer</strong> </p>
- 
-</div>
+
 
 ### :fire: My Streak Stats :
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=enverdzheparov7&theme=dark" alt="GitHub Streak" /></a>
