@@ -1,5 +1,6 @@
 ﻿
 # Hi, my name is Enver
 ## I'm beginner programmer
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enverdzheparov7)
+### :fire: My Streak Stats :
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=enverdzheparov7&theme=dark" alt="GitHub Streak" /></a>
 
