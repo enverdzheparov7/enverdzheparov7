@@ -38,6 +38,14 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
       
 </div>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enverdzheparov7&theme=solarized_dark)
+
+<div>
+  
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+      
+</div>
+
 <!-- CONTACT -->
 ### 💬 𝐂𝐨𝐧𝐭𝐚𝐜𝐭𝐬
 
